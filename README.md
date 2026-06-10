@@ -1,4 +1,4 @@
-# E-commerence-Sales-Dashboard
+# E-commerence-Sales-Dashboard Using Power BI
 
 This project is an interactive E-Commerce Sales Dashboard built using Power BI. It provides insights into sales performance, profit trends, customer behavior, and payment patterns to support data-driven decision-making.
 
